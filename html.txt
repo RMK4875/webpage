@@ -1,1 +1,41 @@
-helllo potato
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+		<h1>Page Heading</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+		<h2>Subheading</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+		<img src="images/HTML5_Logo.svg" alt="HTML_Logo" width="300" height="300">
+
+	
+		<p>The HTML5 logo is licensed under Creative Commons Attribution 3.0 - all are free to use and reimagine as they see fit. Logo from <a href="https://www.w3schools.com/">w3.org</a></p>
+
+
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+
+<table>
+  <tr>
+    <td><b>Column 1</b></td>
+    <td><b>Column 2</b></td>
+  </tr>
+  <tr>
+    <td>Value 1</td>
+    <td>Value 2</td>
+  </tr>
+  <tr>
+    <td>Value 3</td>
+    <td>Value 4</td>
+  </tr>
+  <tr>
+    <td>Value 5</td>
+    <td>Value 6</td>
+  </tr>
+</table>
+	</body>
+</html>
